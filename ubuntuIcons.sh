@@ -1,35 +1,23 @@
 #!/bin/bash
-sudo add-apt-repository -y ppa:noobslab/nitrux-os
 sudo add-apt-repository -y ppa:nitrux-team/nitrux-artwork
 sudo add-apt-repository -y ppa:noobslab/potenza
 sudo add-apt-repository -y ppa:numix/ppa
 sudo add-apt-repository -y ppa:noobslab/themes
 sudo add-apt-repository -y ppa:snwh/pulp
 sudo add-apt-repository -y ppa:oranchelo/oranchelo-icon-theme
-sudo add-apt-repository -y ppa:ravefinity-project/ppa
-sudo add-apt-repository -y ppa:noobslab/evolvere
 sudo add-apt-repository -y ppa:noobslab/icons2
-sudo add-apt-repository -y ppa:noobslab/nitrux-os
-sudo add-apt-repository -y ppa:numix-icon-theme-dev/utouch
-sudo add-apt-repository -y ppa:moka/daily
 sudo apt-get update
 sudo apt-get install humanitary-gtk-theme
 sudo apt-get install malys-uniblue
 sudo apt-get install malys-uniblack
-sudo apt-get install fs-icons
 sudo apt-get install malys-ex
 sudo apt-get install darkenza
 sudo apt-get install lubuntubox
-sudo apt-get install artnet-icons
-sudo apt-get install azenis-green-icons
 sudo apt-get install dkgreen
 sudo apt-get install matrilineare
 sudo apt-get install zoncolor-themes
 sudo apt-get install elementary-icons
-sudo apt-get install ubudao-style
-sudo apt-get install osx-nostalgie
 sudo apt-get install colored-plastic-icons
-sudo apt-get install numix-utouch-icon-theme
 sudo apt-get install snow-sabre-icons
 sudo apt-get install moka-icon-theme
 sudo apt-get install faba-icon-theme faba-mono-icons
@@ -37,14 +25,9 @@ sudo apt-get install compass-icons
 sudo apt-get install myelementary
 sudo apt-get install buuf-remix-icons
 sudo apt-get install ieos7-icons
-sudo apt-get install potenza-2
-sudo apt-get install potenza
-sudo apt-get install potenza-orange
 sudo apt-get install square-icons
 sudo apt-get install flatwoken-icons
 sudo apt-get install square-beam-icons
-sudo apt-get install mintx-colors-icon
-sudo apt-get install ravefinity-x-icons
 sudo apt-get install elemint-icons
 sudo apt-get install rave-x-colors-icons
 sudo apt-get install sigma-metro-icons
@@ -53,7 +36,6 @@ sudo apt-get install ultra-flat-icons
 sudo apt-get install ultra-flat-icons-orange
 sudo apt-get install ultra-flat-icons-green
 sudo apt-get install octagon-icons
-sudo apt-get install evolvere-icon-suite
 sudo apt-get install humanity-colors
 sudo apt-get install masalla-icon-theme
 sudo apt-get install vivacious-colors
@@ -66,7 +48,6 @@ sudo apt-get install arc-icons
 sudo apt-get install elementary-add-icons
 sudo apt-get install oranchelo-icon-theme
 sudo apt-get install colors-just-colors-icons
-sudo apt-get install numix-white-icons
 sudo apt-get install perforated-edge-icons
 sudo apt-get install damadamas-icons
 sudo apt-get install ubo-icons
