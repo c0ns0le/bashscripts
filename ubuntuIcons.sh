@@ -1,10 +1,8 @@
 #!/bin/bash
 sudo add-apt-repository -y ppa:nitrux-team/nitrux-artwork
-sudo add-apt-repository -y ppa:noobslab/potenza
 sudo add-apt-repository -y ppa:numix/ppa
 sudo add-apt-repository -y ppa:noobslab/themes
 sudo add-apt-repository -y ppa:snwh/pulp
-sudo add-apt-repository -y ppa:oranchelo/oranchelo-icon-theme
 sudo add-apt-repository -y ppa:noobslab/icons2
 sudo apt-get update
 sudo apt-get install humanitary-gtk-theme
@@ -102,4 +100,3 @@ sudo apt-get install meliaesvg-icons
 sudo apt-get install acyl-icon-set
 sudo apt-get install nouvegnome-gray
 sudo apt-get install awoken-icon-theme
-
