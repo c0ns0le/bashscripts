@@ -11,6 +11,7 @@ sudo add-apt-repository -y ppa:nilarimogard/webupd8
 sudo add-apt-repository -y ppa:alexlarsson/flatpak
 sudo add-apt-repository -y ppa:atareao/nautilus-extensions
 sudo add-apt-repository -y ppa:noobslab/themes
+sudo add-apt-repository ppa:videolan/stable-daily
 sudo add-apt-repository -y ppa:noobslab/icons
 sudo add-apt-repository -y ppa:noobslab/apps
 sudo add-apt-repository -y ppa:webupd8team/terminix
@@ -56,8 +57,8 @@ sudo apt-get -y install vinagre
 sudo apt-get -y install vino
 sudo apt-get -y install alacarte
 sudo apt-get -y install ffmpeg
+sudo apt-get install vlc
 sudo apt-get -y install obs-studio
-sudo snap install vlc
 sudo apt -y install darktable
 sudo apt -y install flatpak
 sudo apt -y install tilix grsync powerwake
