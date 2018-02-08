@@ -57,6 +57,7 @@ sudo apt-get -y install vino
 sudo apt-get -y install alacarte
 sudo apt-get -y install ffmpeg
 sudo apt-get -y install obs-studio
+sudo snap install vlc
 sudo apt -y install darktable
 sudo apt -y install flatpak
 sudo apt -y install tilix grsync powerwake
