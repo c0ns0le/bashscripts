@@ -5,13 +5,10 @@ sudo add-apt-repository -y ppa:peterlevi/ppa
 sudo add-apt-repository -y ppa:team-xbmc/ppa
 sudo add-apt-repository -y ppa:webupd8team/java
 sudo add-apt-repository -y ppa:obsproject/obs-studio
-sudo add-apt-repository -y ppa:team-xbmc/ppa
-sudo add-apt-repository -y ppa:webupd8team/atom
 sudo add-apt-repository -y ppa:nilarimogard/webupd8
 sudo add-apt-repository -y ppa:alexlarsson/flatpak
 sudo add-apt-repository -y ppa:atareao/nautilus-extensions
 sudo add-apt-repository -y ppa:noobslab/themes
-sudo add-apt-repository ppa:videolan/stable-daily
 sudo add-apt-repository -y ppa:noobslab/icons
 sudo add-apt-repository -y ppa:noobslab/apps
 sudo add-apt-repository -y ppa:webupd8team/terminix
@@ -57,7 +54,6 @@ sudo apt-get -y install vinagre
 sudo apt-get -y install vino
 sudo apt-get -y install alacarte
 sudo apt-get -y install ffmpeg
-sudo apt-get install vlc
 sudo apt-get -y install obs-studio
 sudo apt -y install darktable
 sudo apt -y install flatpak
@@ -88,8 +84,6 @@ sudo apt-get -y install libdvdread4
 sudo /usr/share/doc/libdvdread4/install-css.sh
 sudo apt-get install libavcodec-extra
 sudo apt-get install libdvd-pkg
-#sudo apt-get -y install kodi
-#sudo apt-get -y install kodi-audioencoder-*
 sudo apt-get -y install variety
 sudo apt-get -y install unace p7zip-rar sharutils rar arj lunzip lzip avahi-discover
 sudo wget http://prdownloads.sourceforge.net/webadmin/webmin_1.870_all.deb
@@ -97,7 +91,7 @@ sudo gdebi -n webmin_1.870.deb
 sudo rm -rf webmin_1.870.deb
 apt-get -y install -f
 sudo apt-get -y install gnubg gnubg-data
-sudo apt-get -y install obs-studio cheese guvcview audacity mpv guvcview atom filezilla
+sudo apt-get -y install obs-studio cheese guvcview audacity mpv guvcview filezilla
 sudo apt-get -y install idle3 idle3-tools
 sudo apt-get -y install clementine cmus cmus-*
 sudo apt-get -y install inkscape scribus shutter gimp
