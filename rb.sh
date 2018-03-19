@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $stickspass|sudo -S reboot
+echo $stickspass|sudo -S systemctl reboot

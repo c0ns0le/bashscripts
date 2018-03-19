@@ -38,6 +38,7 @@ sudo apt-get -y install ubuntu-restricted-extras
 sudo apt -y unstall build-essential
 sudo apt -y install gnome-shell-extensions
 sudo apt -y install gnome-tweak-tool
+sudo apt -y install seahorse-nautilus
 sudo apt -y install chrome-gnome-shell
 sudo apt-get -y install ranger
 sudo apt-get -y install xdotool

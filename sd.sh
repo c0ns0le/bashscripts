@@ -1,3 +1,3 @@
 #!/bin/bash
-echo -e $stickspass|sudo -S poweroff
+echo -e $stickspass|sudo -S systemctl poweroff
 
