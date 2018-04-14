@@ -1,0 +1,7 @@
+
+//192.168.0.2/backup  /mnt/backup  cifs  guest,uid=1000,iocharset=utf8  0  0
+//192.168.0.2/disk_images  /mnt/diskImages  cifs  guest,uid=1000,iocharset=utf8  0  0
+//192.168.0.2/Documents  /mnt/documents  cifs  guest,uid=1000,iocharset=utf8  0  0
+//192.168.0.2/Music  /mnt/music  cifs  guest,uid=1000,iocharset=utf8  0  0
+//192.168.0.2/Pictures  /mnt/pictures  cifs  guest,uid=1000,iocharset=utf8  0  0
+//192.168.0.2/Videos  /mnt/videos  cifs  guest,uid=1000,iocharset=utf8  0  0
