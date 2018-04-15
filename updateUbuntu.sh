@@ -87,9 +87,9 @@ sudo apt-get install libavcodec-extra
 sudo apt-get install libdvd-pkg
 sudo apt-get -y install variety
 sudo apt-get -y install unace p7zip-rar sharutils rar arj lunzip lzip avahi-discover
-sudo wget http://prdownloads.sourceforge.net/webadmin/webmin_1.870_all.deb
-sudo gdebi -n webmin_1.870.deb
-sudo rm -rf webmin_1.870.deb
+sudo wget http://prdownloads.sourceforge.net/webadmin/webmin_1.881_all.deb
+sudo gdebi -n webmin_1.881_all.deb
+sudo rm -rf webmin_1.881_all.deb
 apt-get -y install -f
 sudo apt-get -y install gnubg gnubg-data
 sudo apt-get -y install obs-studio cheese guvcview audacity mpv guvcview filezilla
