@@ -1,3 +1,3 @@
 #!/bin/bash
-gnome-session-quit --logout --no-prompt
+gnome-session-quit --logout --no-prompt --force
 exit

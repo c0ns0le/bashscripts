@@ -4,99 +4,104 @@ sudo add-apt-repository -y ppa:numix/ppa
 sudo add-apt-repository -y ppa:noobslab/themes
 sudo add-apt-repository -y ppa:snwh/pulp
 sudo add-apt-repository -y ppa:noobslab/icons2
-sudo apt-get update
-sudo apt-get install humanitary-gtk-theme
-sudo apt-get install malys-uniblue
-sudo apt-get install malys-uniblack
-sudo apt-get install malys-ex
-sudo apt-get install darkenza
-sudo apt-get install lubuntubox
-sudo apt-get install dkgreen
-sudo apt-get install matrilineare
-sudo apt-get install zoncolor-themes
-sudo apt-get install elementary-icons
-sudo apt-get install colored-plastic-icons
-sudo apt-get install snow-sabre-icons
-sudo apt-get install moka-icon-theme
-sudo apt-get install faba-icon-theme faba-mono-icons
-sudo apt-get install compass-icons
-sudo apt-get install myelementary
-sudo apt-get install buuf-remix-icons
-sudo apt-get install ieos7-icons
-sudo apt-get install square-icons
-sudo apt-get install flatwoken-icons
-sudo apt-get install square-beam-icons
-sudo apt-get install elemint-icons
-sudo apt-get install rave-x-colors-icons
-sudo apt-get install sigma-metro-icons
-sudo apt-get install emerald-icon-theme
-sudo apt-get install ultra-flat-icons
-sudo apt-get install ultra-flat-icons-orange
-sudo apt-get install ultra-flat-icons-green
-sudo apt-get install octagon-icons
-sudo apt-get install humanity-colors
-sudo apt-get install masalla-icon-theme
-sudo apt-get install vivacious-colors
-sudo apt-get install vivacious-folder-colors-addon
-sudo apt-get install shadow-icon-theme
-sudo apt-get install uniform-icons
-sudo apt install revival-icons
-sudo apt-get install arc-theme
-sudo apt-get install arc-icons
-sudo apt-get install elementary-add-icons
-sudo apt-get install oranchelo-icon-theme
-sudo apt-get install colors-just-colors-icons
-sudo apt-get install perforated-edge-icons
-sudo apt-get install damadamas-icons
-sudo apt-get install ubo-icons
-sudo apt-get install vamox-icons
-sudo apt-get install flat-remix-gs-theme
-sudo apt-get install flat-remix-icons
-sudo apt-get install xatane-icons
-sudo apt-get install obsidian-1-icons
-sudo apt-get install linux-dark-icons
-sudo apt-get install victory-icon2-theme
-sudo apt-get install ardis-icons
-sudo apt-get install antu-universal-icons
-sudo apt-get install lila-hd-icons
-sudo apt-get install humanitary-icon-theme
-sudo apt-get install vertex-icons
-sudo apt-get install numix-icon-theme-circle
-sudo apt-get install paper-icon-theme
-sudo apt-get install nitrux-icon-theme
-sudo apt-get install vibrantly-simple-icon-theme
-sudo apt-get install victory-icon-theme
-sudo apt-get install smaragd-icons
-sudo apt-get install sovietec-os-icons
-sudo apt-get install hackstation-theme
-sudo apt-get install ghost-flat-icons
-sudo apt-get install dalisha-icons
-sudo apt-get install ursa-icons
-sudo apt-get install deepin-gtk-theme
-sudo apt-get install sphere-icons
-sudo apt-get install numix-gtk-theme
-sudo apt-get install malys-uniwhite
-sudo apt-get install mylo-xylo-icons
-sudo apt-get install kawaiki-icons
-sudo apt-get install zorinos-themes
-sudo apt-get install zorinos-icons
-sudo apt-get install ffw-icons
-sudo apt-get install buttonized-icons
-sudo apt-get install faenza-icon-theme
-sudo apt-get install faience-icon-theme
-sudo apt-get install aery-icons
-sudo apt-get install ilinux-icons
-sudo apt-get install high-delight-icons
-sudo apt-get install magical-lights-icons
-sudo apt-get install sky-blue-unity
-sudo apt-get install g-xiria
-sudo apt-get install nitrux-icons2
-sudo apt-get install royal-linux-themes
-sudo apt-get install royal-linux-icons
-sudo apt-get install inx-icons
-sudo apt-get install wine-blue-remix
-sudo apt-get install piratunbu-icons
-sudo apt-get install meliaesvg-icons
-sudo apt-get install acyl-icon-set
-sudo apt-get install nouvegnome-gray
-sudo apt-get install awoken-icon-theme
+sudo add-apt-repository -y ppa:xenatt/xenlism
+sudo apt update
+sudo apt install -y humanitary-gtk-theme
+sudo apt install -y malys-uniblue
+sudo apt install -y malys-uniblack
+sudo apt install -y malys-ex
+sudo apt install -y darkenza
+sudo apt install -y lubuntubox
+sudo apt install -y dkgreen
+sudo apt install -y matrilineare
+sudo apt install -y zoncolor-themes
+sudo apt install -y elementary-icons
+sudo apt install -y colored-plastic-icons
+sudo apt install -y snow-sabre-icons
+sudo apt install -y moka-icon-theme
+sudo apt install -y faba-icon-theme faba-mono-icons
+sudo apt install -y compass-icons
+sudo apt install -y myelementary
+sudo apt install -y buuf-remix-icons
+sudo apt install -y ieos7-icons
+sudo apt install -y square-icons
+sudo apt install -y flatwoken-icons
+sudo apt install -y square-beam-icons
+sudo apt install -y elemint-icons
+sudo apt install -y rave-x-colors-icons
+sudo apt install -y sigma-metro-icons
+sudo apt install -y emerald-icon-theme
+sudo apt install -y ultra-flat-icons
+sudo apt install -y ultra-flat-icons-orange
+sudo apt install -y ultra-flat-icons-green
+sudo apt install -y octagon-icons
+sudo apt install -y humanity-colors
+sudo apt install -y masalla-icon-theme
+sudo apt install -y vivacious-colors
+sudo apt install -y vivacious-folder-colors-addon
+sudo apt install -y shadow-icon-theme
+sudo apt install -y uniform-icons
+sudo apt install -y revival-icons
+sudo apt install -y arc-theme
+sudo apt install -y arc-icons
+sudo apt install -y elementary-add-icons
+sudo apt install -y oranchelo-icon-theme
+sudo apt install -y colors-just-colors-icons
+sudo apt install -y perforated-edge-icons
+sudo apt install -y damadamas-icons
+sudo apt install -y ubo-icons
+sudo apt install -y vamox-icons
+sudo apt install -y flat-remix-gs-theme
+sudo apt install -y flat-remix-icons
+sudo apt install -y xatane-icons
+sudo apt install -y obsidian-1-icons
+sudo apt install -y linux-dark-icons
+sudo apt install -y victory-icon2-theme
+sudo apt install -y ardis-icons
+sudo apt install -y antu-universal-icons
+sudo apt install -y lila-hd-icons
+sudo apt install -y humanitary-icon-theme
+sudo apt install -y vertex-icons
+sudo apt install -y numix-icon-theme-circle
+sudo apt install -y paper-icon-theme
+sudo apt install -y nitrux-icon-theme
+sudo apt install -y vibrantly-simple-icon-theme
+sudo apt install -y victory-icon-theme
+sudo apt install -y smaragd-icons
+sudo apt install -y sovietec-os-icons
+sudo apt install -y hackstation-theme
+sudo apt install -y ghost-flat-icons
+sudo apt install -y dalisha-icons
+sudo apt install -y ursa-icons
+sudo apt install -y deepin-gtk-theme
+sudo apt install -y sphere-icons
+sudo apt install -y numix-gtk-theme
+sudo apt install -y malys-uniwhite
+sudo apt install -y mylo-xylo-icons
+sudo apt install -y kawaiki-icons
+sudo apt install -y zorinos-themes
+sudo apt install -y zorinos-icons
+sudo apt install -y ffw-icons
+sudo apt install -y buttonized-icons
+sudo apt install -y faenza-icon-theme
+sudo apt install -y faience-icon-theme
+sudo apt install -y aery-icons
+sudo apt install -y ilinux-icons
+sudo apt install -y high-delight-icons
+sudo apt install -y magical-lights-icons
+sudo apt install -y sky-blue-unity
+sudo apt install -y g-xiria
+sudo apt install -y nitrux-icons2
+sudo apt install -y royal-linux-themes
+sudo apt install -y royal-linux-icons
+sudo apt install -y inx-icons
+sudo apt install -y wine-blue-remix
+sudo apt install -y piratunbu-icons
+sudo apt install -y meliaesvg-icons
+sudo apt install -y acyl-icon-set
+sudo apt install -y nouvegnome-gray
+sudo apt install -y awoken-icon-theme
+sudo apt install -y xenlism-minimalism-theme
+sudo apt install -y xenlism-storm
+sudo apt install -y xenlism-wildfire-icon-theme
+sudo apt install -y xenlism-finewalls
