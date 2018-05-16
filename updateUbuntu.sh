@@ -1,7 +1,7 @@
 #!/bin/bash
 sudo add-apt-repository -y ppa:flexiondotorg/hal-flash
 sudo add-apt-repository -y ppa:audacity-team/daily
-sudo add-apt-repository -y ppa:peterlevi/ppa
+#sudo add-apt-repository -y ppa:peterlevi/ppa
 sudo add-apt-repository -y ppa:team-xbmc/ppa
 sudo add-apt-repository -y ppa:webupd8team/java
 sudo add-apt-repository -y ppa:obsproject/obs-studio
