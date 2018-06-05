@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo add-apt-repository -y ppa:graphics-drivers/ppa
 sudo add-apt-repository -y ppa:flexiondotorg/hal-flash
 sudo add-apt-repository -y ppa:audacity-team/daily
 #sudo add-apt-repository -y ppa:peterlevi/ppa
@@ -76,6 +77,7 @@ git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 #sudo fc-cache -vf /usr/share/fonts/
 #sudo mv 10-powerline-symbols.conf /etc/fonts/conf.d/
 sudo apt-get -y install chromium-browser
+sudo ubuntu-drivers autoinstall
 sudo apt-get -y install neofetch
 sudo apt-get -y install libhal1-flash
 sudo apt-get -y install pepperflashplugin-nonfree
